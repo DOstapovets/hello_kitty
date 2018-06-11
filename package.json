@@ -1,0 +1,22 @@
+{
+  "name": "hello_kitty",
+  "version": "1.0.0",
+  "description": "Hello kitty!",
+  "scripts": {
+    "start": "node ./scripts/serv.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DOstapovets/hello_kitty.git"
+  },
+  "author": "DO",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DOstapovets/hello_kitty/issues"
+  },
+  "homepage": "https://github.com/DOstapovets/hello_kitty#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}

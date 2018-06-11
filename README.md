@@ -1,6 +1,6 @@
 # HELLO KITTY
 
-### Rules!
+## Rules!
 
 1. __Don`t use Russian Google Requests (alse Translator).Short request is nice!__
 2. __It is desirable to use the console commands__
@@ -21,7 +21,7 @@ Coming soon!
 4. Clone this repository 
 5. Go there `cd ./hello_kitty`
 6. Install dependeces package `npm install`
-7. Run `npm` command `npm run dev`
+7. Run `npm` command `npm start`
 8. Give answer on question : `Who my kitty?`
 
 **Next time you open folder of repository*
