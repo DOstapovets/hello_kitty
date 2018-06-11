@@ -1,6 +1,6 @@
 # HELLO KITTY
 
-## Rules!
+## Rules
 
 1. __Don`t use Russian Google Requests (alse Translator).Short request is nice!__
 2. __It is desirable to use the console commands__
