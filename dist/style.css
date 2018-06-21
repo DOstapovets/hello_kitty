@@ -1,22 +1,23 @@
-*{
-    font-family: Arial, Helvetica, sans-serif
+body{
+    position: relative;
+    margin: 0;
 }
 .shrift{
     background: rgb(255, 176, 176);
     padding: 3px;
 }
-input:checked ~ .les1{
+input:checked ~ #les1{
     display: none;    
 }
-#header{
-    background: rgb(166, 109, 168); 
-    padding: 10px;
-    border: 1px solid rgb(17, 7, 7)
+.content{
+    min-height: calc(100vh - 70px);
 }
-#footer{
-    position: fixed;
-    right: 0; bottom: 0;
-    background: rgb(228, 178, 252); 
-    padding: 10px; 
+
+footer{
+    height: 70px;
 }
+html {
+    box-sizing: border-box;
+  }
+  
 
